@@ -1,0 +1,17 @@
+{
+  "name": "practica-clase",
+  "version": "1.0.0",
+  "description": "practica en la clase programacion web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grupo de programcion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "body-parser": "^1.16.1",
+    "mysql": "^2.14.1",
+    "circular-json": "^0.3.3"
+  }
+}
